@@ -58,4 +58,8 @@ Encounter any issues? Please raise them in the Issues section!
 
 ---
 
-:D
+## ⚠️ Important Notice: TL;DR
+
+The **Alliance-Mini-Node Bot** is designed to **automate the mini node** operations. By using this bot, you are indirectly contributing valuable data to the network. 
+
+**Please Note:** If any user manipulates this data, I am not responsible for their actions. Use the bot wisely and responsibly! 😄
