@@ -13,6 +13,7 @@ Before running the bot, ensure you have the following:
 
 - A Telegram account (log in via [web.telegram.org](https://web.telegram.org))
 - Already logged into Alliance gaming VIA my invite link in twitter thread (OPTIONAL)
+- Download this Chrome extension: [Here](https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj)
 
 ---
 
